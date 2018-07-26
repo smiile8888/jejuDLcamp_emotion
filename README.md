@@ -1,8 +1,8 @@
 # Emotion aware conversational interface - Text to Color
 It is for an interface design for massenser that recognizes the user's emotion and displays it in colors and emoji.
 
-![##INTRO][1]
-![proposed method][2]
+<center>![##INTRO][1]</center>
+<center>![proposed method][2]</center>
 
 ## Code Overview
 - deepmoji/
@@ -19,13 +19,13 @@ html files
 flask @/ file for run the web page
 
 ## Emoji to Color
-![##model][3]
-![color mapping to emoji dendrogram][4]
-![color code: rgba][5]
-![color code: rgba][6]
+<center>![##model][3]</center>
+<center>![color mapping to emoji dendrogram][4]</center>
+<center>![color code: rgba][5]</center>
+<center>![color code: rgba][6]</center>
 
 
-[1]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/1.png
+[1]: 450x0//https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/1.png
 [2]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/2.png
 [3]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/3.png
 [4]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/4.png
