@@ -1,11 +1,8 @@
-<stlye>
-    .center-image{ margin: 0 auto; display: block; width = 200px}
-</stlye>
 # Emotion aware conversational interface - Text to Color
 It is for an interface design for massenser that recognizes the user's emotion and displays it in colors and emoji.
 
-![intro][1]{: center-image}
-![proposed method][2]
+<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/1.png" width="500" />
+<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/2.png" width="600" />
 
 ## Code Overview
 - deepmoji/
@@ -22,16 +19,8 @@ It is for an interface design for massenser that recognizes the user's emotion a
 -- flask @/ file for run the web page
 
 ## Emoji to Color
-![##model][3]
-![color mapping to emoji dendrogram][4]
-![color code: rgba][5]
-![color code: rgba][6]
+<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/3.png" width="500" />
+<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/4.png" width="600" />
+<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/5.png" width="500" />
+<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/6.png" width="500" />
 
-
-
-[1]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/1.png
-[2]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/2.png
-[3]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/3.png
-[4]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/4.png
-[5]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/5.png
-[6]: https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/6.png
