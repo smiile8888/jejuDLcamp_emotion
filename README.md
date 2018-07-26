@@ -8,7 +8,7 @@
 # Emotion aware conversational interface - Text to Color
 It is for an interface design for massenser that recognizes the user's emotion and displays it in colors and emoji.
 
-<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/1.png" style="width:200px;"/>
+<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/1.png" width:"200px";/>
 
 ![proposed method][2]
 
