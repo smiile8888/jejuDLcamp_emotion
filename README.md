@@ -1,15 +1,10 @@
 <stlye>
-    .center-image{
-        margin: 0 auto;
-        display: block;
-    }
+    .center-image{ margin: 0 auto; display: block; width = 200px}
 </stlye>
-
 # Emotion aware conversational interface - Text to Color
 It is for an interface design for massenser that recognizes the user's emotion and displays it in colors and emoji.
 
-<img src="https://github.com/minh364/jejuDLcamp_emotion/blob/master/docs/image/1.png" width:"200px";/>
-
+![intro][1]{: center-image}
 ![proposed method][2]
 
 ## Code Overview
