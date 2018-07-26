@@ -1,7 +1,24 @@
-# Emotion aware conversational interface
+# Emotion aware conversational interface - Text to Color
+It is for an interface design for massenser that recognizes the user's emotion and displays it in colors and emoji.
 
 ![##INTRO][1]
 ![proposed method][2]
+
+## Code Overview
+- deepmoji/
+code for training model Deepmoji and use it @DeepMoji team
+- docs/image/
+images
+- models/
+pretrained model and vocaburary
+- static/
+css, js files
+- templates/
+html files
+- app.py
+flask @/ file for run the web page
+
+## Emoji to Color
 ![##model][3]
 ![color mapping to emoji dendrogram][4]
 ![color code: rgba][5]
